@@ -1,0 +1,4 @@
+Rafli Revolusi
+- Konsisten untuk belajar web programming
+- Paham HTML, CSS, Java Script, sampai PHP atau Laravel
+- Membuat sebuah website sederhana

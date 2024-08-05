@@ -3,4 +3,5 @@ RAFLI Resolusi :
 - Paham HTML, CSS, Java Script, sampai PHP atau Laravel
 - Membuat website dengan PHP atau laravel
 - Berkolaborasi dengan orang yang lebih expert
-- Membuat website merch shop
+- Membuat website yang responsiv yang bisa digunakan
+- Bekerja di Start-up

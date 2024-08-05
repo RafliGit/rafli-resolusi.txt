@@ -1,4 +1,4 @@
-WPU Revolusi
+WPU Resolusi
 - Konsisten untuk belajar web programming
 - Paham HTML, CSS, Java Script, sampai PHP atau Laravel
 - Membuat website dengan PHP atau laravel

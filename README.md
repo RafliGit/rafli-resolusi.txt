@@ -1,2 +1,2 @@
-# wpu-resolusi
+# rafli-resolusi
 Repository untuk menyimpan rencana web kedepannya
